@@ -1,4 +1,4 @@
 # 新メンバー
-nakamura desu
+nakamura desu.
 ## 自己紹介
-githubtset
+githubtset.
